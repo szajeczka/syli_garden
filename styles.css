@@ -1,0 +1,87 @@
+.profilowe {
+align-self: center;
+width: 15% ;
+height: 15%;
+border-radius: 100%;
+border-style: solid;
+border-width: 4px;
+border-color: #FE7171;
+}
+
+body {
+  text-align: center;
+  background-color: #CEE5D0;
+}
+
+h1 {
+  font-size: 70px;
+  color: #335D2D;
+}
+
+h3 {
+  font-size: 30px;
+  color: #335D2D;
+}
+
+p {
+  font-size: 20px;
+  color: #335D2D;
+}
+hr {
+  width: 100%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:15px;
+  color: #FFB0B0;
+}
+table {
+  width: 100%;
+  text-align: center;
+}
+
+th {
+  color:#335D2D;
+}
+
+.alokazja {
+  width: 70%;
+  height: 70%;
+}
+
+.grubosz {
+  width: 70%;
+  height: 70%;
+}
+
+.benji {
+  width: 70%;
+  height: 70%;
+}
+
+.filek {
+  width: 70%;
+  height: 70%;
+}
+
+.monstera {
+  width: 70%;
+  height: 70%;
+}
+
+.storczyk {
+  width: 70%;
+  height: 70%;
+}
+
+img {
+  border-radius: 10%;
+  border-style: solid;
+  border-width: 6px;
+  border-color: #7EA04D;
+}
+
+.envelope {
+  border-style: none;
+  width: 50px;
+  height: 50px;
+}
